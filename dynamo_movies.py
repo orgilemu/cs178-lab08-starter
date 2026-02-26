@@ -1,5 +1,6 @@
 # CS178 - Lab 8 Starter
 # lab 8 - Munkh-Orgil Tumurchudur 
+# version two
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
